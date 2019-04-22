@@ -1,1 +1,1 @@
-docker.io/prom/node-exporter:latest
+FROM quay.io/prometheus/node-exporter:v0.17.0
